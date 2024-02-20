@@ -1,0 +1,17 @@
+{
+  "name": "react-chatbot",
+  "version": "1.0.0",
+  "description": "Showcase of chatbot in React",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "chatbot",
+    "azure",
+    "microsoft"
+  ],
+  "author": "Harish Chahar",
+  "license": "ISC"
+}
